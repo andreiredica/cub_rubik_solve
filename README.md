@@ -1,2 +1,2 @@
-# cub_rubik_solve
-Doresc sa fac un program care rezolva un cub rubik
+# site web prezentare echipa Lakers NBA
+Doresc sa fac un site web de  prezentare a echipei Lakers NBA
